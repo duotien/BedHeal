@@ -1,0 +1,23 @@
+reload-message: "&aReloaded BedHeal!"
+
+# Configuration
+
+# All sleeping players will be fully healed if the night is skipped (true/false)
+fullyHealPlayersOnNightSkip: true
+
+# Start healing the players after they have slept in the bed for this amount of time (in tick)
+# Note: players will fully be asleep after 100 ticks (5 seconds)
+regenDelayAfterSleepingInTick: 60
+
+# Applying the effect every this amount of time (in tick)
+regenRateInTick: 60
+
+### You can check the Effect table here: https://minecraft.fandom.com/wiki/Regeneration#Effect
+# The duration of the effect this plugin will apply to the players (in tick)
+regenDurationInTick: 50
+
+# The effect's amplifier(level)
+regenAmplifier: 0
+
+# DO NOT EDIT THIS
+configVersion: 1.0

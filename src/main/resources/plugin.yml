@@ -1,0 +1,8 @@
+name: BedHeal
+version: '${project.version}'
+main: me.duotien.bedheal.BedHeal
+api-version: 1.17
+authors: [ duotien ]
+description: Heal players when they are sleeping on a bed.
+commands:
+  bedheal:
